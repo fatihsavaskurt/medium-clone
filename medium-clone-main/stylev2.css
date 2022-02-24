@@ -1,0 +1,23 @@
+.bg-blue{
+
+    background-color:rgb(196,226,255) ;
+}
+
+.border-bottom-dark{
+    border-bottom: 1px solid rgba(41, 41, 41, 1)
+}
+
+body{
+    font-family: 'PT Serif', serif;
+}
+.pic1{
+    position: relative;
+
+    bottom: 17em;
+}
+
+
+.text2{
+    position: relative;
+    left: 9em;
+}
